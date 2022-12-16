@@ -2,7 +2,8 @@
 
 AWS Lambda function to list and delete multiple files inside a folder structure in S3 Bucket
 
-E.g. 
 
+Example for specifying the values for the below variables
+E.g. 
 s3_bucket = "doc-example-bucket"
 s3_prefix = "images/"
